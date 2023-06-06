@@ -1,0 +1,5 @@
+-- The data was taken from here : https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations but with some changes --
+  1. articles_dictionary.csv is the embeding of the prodcus's pictures
+  2. desctiption_embeddings.csv is the embeding of the prodcus's textual desctiption
+  3. new_pn includes the number of times each pair will appear in the shopping baskets of the consumers on the website, 
+     the shopping basket of the consumers on the website, the shopping basket of the consumers on the website, the shopping basket as a product that a certain person purchased on a certain date
